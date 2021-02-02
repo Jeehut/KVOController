@@ -10,7 +10,7 @@ let package = Package(
             name: "KVOController",
             path: "FBKVOController",
             exclude: ["Info.plist"],
-            publicHeadersPath: "include"
+            publicHeadersPath: ""
         )
     ]
 )
